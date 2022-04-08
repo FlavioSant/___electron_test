@@ -28,8 +28,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "pehrc",
-        "repo": "electron-teste"
+        "owner": "FlavioSant",
+        "repo": "___electron_test"
       }
     ]
   }
