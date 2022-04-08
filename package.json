@@ -29,9 +29,9 @@
       {
         "provider": "github",
         "owner": "FlavioSant",
-        "repo": "___electron_test"
+        "repo": "___electron_test",
+        "releaseType": "release"
       }
-    ],
-    "releaseType": "release"
+    ]
   }
 }
